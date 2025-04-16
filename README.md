@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# QTools
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+使用 Vue3+Vite 搭建的一款工具库，该工具库包括json格式化、图片压缩、url编解码、图片取色器等功能。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+<img src="./example1.jpg" />
